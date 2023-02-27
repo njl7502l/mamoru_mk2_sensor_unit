@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "njl7502l-symbols")(type "Legacy")(uri "${KIPRJMOD}/njl7502l-kicad-library/njl7502l-symbols/njl7502l-symbols.lib")(options "")(descr ""))
+)
